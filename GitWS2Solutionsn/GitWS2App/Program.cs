@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Conflict 1 - op deze lijn");
+Console.WriteLine("Conflict 1");
